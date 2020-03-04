@@ -1,5 +1,4 @@
 # team-test
-## Gotta check conflicts
-## Look! I made a change!
-### Conflict???
-## Lets try for a conflict
+## Hopefully this generates a conflict
+## But maybe not
+## Yet another change on a new branch, lots of changes in master

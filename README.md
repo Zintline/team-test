@@ -1,3 +1,4 @@
 # team-test
-
-## Yet another change on a new branch
+## Hopefully this generates a conflict
+## But maybe not
+## Yet another change on a new branch, lots of changes in master
